@@ -1,5 +1,6 @@
 # AZSegmentedControl
 AZSegmentedControl inherited from UISegmentedControl.
+![](./images/3.png)
 ## Opportunities:
 
 - [x] You can simultaneous display of image and text in segment.
