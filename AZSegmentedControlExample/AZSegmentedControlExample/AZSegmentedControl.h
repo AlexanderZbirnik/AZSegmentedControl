@@ -1,9 +1,11 @@
 //
 //  AZSegmentedControl.h
-//
+//  Version 1.0
 //  Created by Alex Zbirnik on 25.08.16.
+//  Updated by Alex Zbirnik on 27.09.16.
 //  Copyright © 2016 Alex Zbirnik. All rights reserved.
 //
+
 
 #import <UIKit/UIKit.h>
 
