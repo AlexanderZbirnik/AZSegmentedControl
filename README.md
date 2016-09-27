@@ -1,4 +1,4 @@
-# AZSegmentedControl
+# AZSegmentedControl v_1.0
 AZSegmentedControl inherited from UISegmentedControl.
 ![](./images/3.png)
 ## Opportunities:
